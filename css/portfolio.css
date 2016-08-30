@@ -1,0 +1,22 @@
+header {
+  text-align: center;
+  background: url('images/coding.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+header h1{
+    padding-top: 124px;
+    font-size: 48px;
+    text-align: center;
+}
+
+ul li{
+  list-style-type: none;
+   margin-left: 5px;
+}
+
+footer .copyright{
+  text-align: center;
+}
