@@ -1,3 +1,16 @@
+.photo-nav {
+	display: flex;
+	flex-flow: row;
+	justify-content: space-around;
+}
+.photo-nav li{
+
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0;
+}
+
+
 img{
 	width:30%;
 	float: left;
@@ -5,7 +18,7 @@ img{
 }
 
 p{
-	font-family: Raleway;
+	font-family: Raleway, sans-serif;
 	margin-left: 1.66%;
 	font-size: 23px;
 	font-weight: 800;
